@@ -20,60 +20,76 @@ This project is a clone of the Airbnb platform, designed to replcate its main fe
 
 
 
+---
+
 ## 🎨 UI/UX Design Planning
 
-### 🧠 Objective
-Document the planning process for the UI/UX design of the Airbnb Clone Project.
-
----
-
 ### 🎯 Design Goals
-The design aims to create a **modern, intuitive, and responsive** interface that enhances the booking experience for users.  
-The main goals include:
-- Simplified and seamless user navigation.  
-- Visually appealing layouts with clear information hierarchy.  
-- Responsive design for both mobile and desktop screens.  
-- Consistency in color scheme, typography, and icons.  
-- Easy accessibility for all user categories.  
+- Create an intuitive user flow that makes navigation simple and logical.  
+- Maintain visual consistency across all pages.  
+- Ensure fast loading times and efficient performance.  
+- Prioritize mobile responsiveness for all device sizes.
 
 ---
 
-### ⚙️ Key Features to Implement
-- **Property Search & Filters:** Enable users to search properties by location, price, and availability.  
-- **Interactive Property Cards:** Quick visual details for each property, such as image, title, and price per night.  
-- **Booking & Checkout Flow:** A simple, guided process for selecting dates, reviewing details, and completing bookings.  
-- **User Authentication (Future update):** Login, signup, and profile management.  
-- **Wishlist & Favorites (Optional):** Save properties for later exploration.  
+### ⚙️ Key Features
+- Property search and filtering  
+- Detailed property viewing  
+- Secure checkout process  
+- User authentication system  
 
 ---
 
 ### 📄 Primary Pages (Table View)
 
-| Page Name | Description | Key UI Components |
-|------------|--------------|------------------|
-| 🏡 **Property Listing View** | Displays all available properties with images, prices, and brief info. Users can search and filter results. | Search bar, filter panel, property cards, grid layout |
-| 🏠 **Listing Detailed View** | Shows detailed information about a selected property including description, amenities, reviews, and booking button. | Image carousel, property info section, amenities list, “Book Now” button |
-| 💳 **Simple Checkout View** | Guides the user through the final booking steps such as selecting dates, confirming guest info, and payment summary. | Date picker, guest details form, booking summary, payment/confirm button |
+| Page | Description |
+|------|--------------|
+| 🏡 **Property Listing View** | Grid display of available properties with search and filter options |
+| 🏠 **Listing Detail View** | Complete property details with images and booking form |
+| 💳 **Simple Checkout** | Streamlined payment and booking confirmation process |
 
 ---
 
-### 💡 Importance of User-Friendly Design in a Booking System
-A **user-friendly design** is essential in any booking platform because it directly impacts usability, trust, and conversion rate.  
-Key reasons include:
-- **Efficiency:** Reduces the time users spend finding and booking properties.  
-- **Clarity:** Ensures all necessary information (price, location, availability) is easy to access.  
-- **Trust:** A clean, consistent interface builds confidence in the platform’s reliability.  
-- **Reduced Errors:** Simple forms and clear feedback help users avoid mistakes during booking.  
-- **Higher Engagement:** A well-designed interface encourages users to return and explore more properties.
+### 💡 Importance of User-Friendly Design
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction.  
+Clear navigation, an intuitive interface, and responsive design are critical to user success and retention.
 
 ---
 
-### 🧩 Design Tools (Optional)
-If UI mockups are needed, tools like:
-- **Figma** – for wireframing and high-fidelity design.  
-- **Canva** – for layout concepts and visual assets.  
-- **Font Awesome** – for icons.  
-- **Google Fonts** – for typography styling.  
+### 🧩 Figma Design Specification
+
+#### 🎨 Color Styles
+| Name | Hex Code | Usage |
+|------|-----------|--------|
+| Primary | `#FF5A5F` | Main brand color (buttons, highlights) |
+| Secondary | `#008489` | Accent color for links and icons |
+| Background | `#FFFFFF` | Page background |
+| Text | `#222222` | Primary text color |
+| Secondary Text | `#717171` | Secondary information text |
+
+#### ✍️ Typography
+| Element | Font Family | Font Weight | Font Size | Usage |
+|----------|--------------|--------------|-------------|--------|
+| Primary Text | Circular (Medium) | 500 | 16px | Body text and labels |
+| Headings | Circular (Bold) | 700 | 24–32px | Titles and major headings |
+| Secondary Text | Circular (Book) | 400 | 14px | Descriptive and smaller text |
 
 ---
+
+### 🧠 Importance of Identifying Design Properties
+Identifying design properties in a mock-up ensures that both designers and developers maintain visual consistency throughout the project.  
+It helps:
+- Speed up development with clear design guidelines.  
+- Maintain brand identity and user trust.  
+- Ensure accessibility and visual balance.  
+- Make collaboration between UI designers and developers seamless.
+
+---
+
+
+
+
+
+
+
 
