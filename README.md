@@ -101,3 +101,30 @@ It helps:
 
 Each team role plays a vital part in ensuring the Airbnb Clone project is delivered efficiently and meets user expectations.
 A clear understanding of these responsibilities helps promote collaboration, accountability, and smooth project execution.
+
+
+
+
+
+## 🎨 UI Component Patterns
+
+### Objective
+Begin exploring the UI components for the Airbnb Clone Project.
+
+### Overview
+This section describes the planned UI components that will be developed to ensure reusability, consistency, and responsiveness across the application.
+
+### Planned Components
+
+| **Component** | **Description / Elements** |
+|----------------|-----------------------------|
+| **Navbar** | Includes logo, search bar, user navigation links, and a responsive menu for different screen sizes. |
+| **Property Card** | Displays property image, basic details, price, location, rating, and a favorite (wishlist) button. Designed with a responsive layout. |
+| **Footer** | Contains site links, company information, social media links, and copyright details. |
+
+### Design Note
+Each component will be:
+- **Reusable** across different pages  
+- **Consistent** with the project’s color and typography standards  
+- **Responsive**, ensuring a seamless experience on both mobile and desktop devices
+
