@@ -84,12 +84,20 @@ It helps:
 - Ensure accessibility and visual balance.  
 - Make collaboration between UI designers and developers seamless.
 
----
 
+🧩 Project Roles and Responsibilities
+| **Role**                | **Responsibilities**                                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | Oversees project timeline, coordinates team activities, and ensures timely delivery of project milestones.       |
+| **Front-End Developer** | Implements UI components, ensures responsive design across devices, and integrates front-end with backend APIs.  |
+| **Back-End Developer**  | Builds and maintains APIs, manages the database, and implements core business logic for the platform.            |
+| **Designers**           | Create mockups, maintain the design system, and ensure overall UX quality and consistency across all screens.    |
+| **QA / Testers**        | Write test cases, perform manual and automated testing, identify and report bugs to maintain system stability.   |
+| **DevOps Engineers**    | Manage deployment pipelines, handle CI/CD processes, and maintain server infrastructure for smooth operations.   |
+| **Product Owner**       | Defines project requirements, prioritizes features, and represents stakeholder interests throughout development. |
+| **Scrum Master**        | Facilitates Agile processes, removes blockers, and organizes team meetings to maintain workflow efficiency.      |
 
+✨ Overview
 
-
-
-
-
-
+Each team role plays a vital part in ensuring the Airbnb Clone project is delivered efficiently and meets user expectations.
+A clear understanding of these responsibilities helps promote collaboration, accountability, and smooth project execution.
